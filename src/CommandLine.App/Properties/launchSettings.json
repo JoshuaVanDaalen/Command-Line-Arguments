@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLine.App": {
+      "commandName": "Project",
+      "commandLineArgs": "-f Joshua -l \"Van Daalen\" --fruits \"Apple:Apricots:Avocado:Banana:Blackberries:Blackcurrant:Blueberries:Cantaloupe:Cherries:Grapes:Guava:Honeydew Melon:Kiwifruit:Lemon:Lime:Mandarin:Mango:Nectarine:Orange:Peaches:Pear:Pineapple:Plums:Raspberries:Strawberries:Watermelon\""
+    }
+  }
+}
